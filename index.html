@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Decodificador de texto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="cabeçalho">
+
+    <img src="./img/Frame 6.png" alt="Logo alura" class="logo-img">
+
+    <h1>Decodificador de texto</h1>
+
+  </header>
+
+  <main class="main">
+
+    <section class="entrada">
+
+      <textarea name="" id="txtarea" class="entrada-de-texto" placeholder="Digite o texto"></textarea>
+
+      <div>
+        <span class="texto-alerta-botoes">
+          <img src="./img/bi_exclamation-circle-fill.png" alt="icone informativo" class="img-alerta">
+          Apenas letras minúsculas e sem acento.
+        </span>
+
+        <div class="botoes">
+          <button class="botoes-criptrografar" onclick="criptografar()">Criptografar</button>
+          <button class="botoes-descriptografar" onclick="descriptografar()">Descriptografar</button>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="saida" id="saida">
+
+      <img src="./img/High quality products 1 1.png" alt="imagem de avatar com uma lupa" class="img-saida" id="img-saida">
+      
+      <span class="mensagem-negrito" id="msg-neg">
+        Nenhuma mensagem encontrada
+      </span>
+
+      <span class="mensagem-comum" id="msg-comum">
+        Digite um texto que você deseja criptografar ou descriptografar.
+      </span>
+
+      <div id="div-bt-copiar" style="display: none;">
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
