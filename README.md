@@ -1,35 +1,11 @@
-## Imagem de capa
-
-Adicione a imagem de capa com o tema do seu projeto:
-
+## DECODIFICADOR DE TEXTO
 <div align="center">
-  img src="" width="0px" /
+  <img src="https://github.com/Carlospazini18/desafio-oracle-decodificador/assets/97403238/d0244681-7bf6-47f7-bab6-b538dd18af1d" width="100%">
 </div>
-
-> Você pode pegar a imagem a partir [deste template](https://docs.google.com/presentation/d/1im_-_spDdNEEsfrmjeZet2ZzVKjG-sQSBWfPFJhZ4q0/edit#slide=id.gb6f422ab58_0_111).
-
-> Ou gerar neste [site](https://alurathumbnail.vercel.app/).
-
-Após adicionar a imagem, também modifique as configurações do projeto para garantir que a imagem vai ser carregada como thumbnail:
-
-**Settings** > **Options** > **Social preview** > **Edit** > **Upload an image...**
-
-<details>
-  <summary><b>Demonstração da adição de thumbnail<b/></summary>
-    
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
-    
-</details>
-  
-# Nome do projeto
-
-Descreva o que é o projeto e o que ele faz
 
 ## 🔨 Funcionalidades do projeto
 
-Indique quais são as funcionalidades e comportamentos do App
-
-Se possível, apresente um exemplo visual do projeto, seja gif, imagens ou vídeo, abaixo segue um exemplo:
+O projeto é um desafio do programa <strong>oracle next education</strong> para por em prática os conhecimentos de lógica de programação, html e css estudados durante o curso.
 
 ![](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/raw/master/img/amostra.gif)
 
