@@ -7,25 +7,26 @@
 
 O projeto é um desafio do programa <strong>oracle next education</strong> para por em prática os conhecimentos de lógica de programação, html e css estudados durante o curso.
 
-![](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/raw/master/img/amostra.gif)
+![](https://github.com/Carlospazini18/desafio-oracle-decodificador/assets/97403238/c748e313-68a8-4717-9e79-28cf56a9dcc2)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-**Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais)**:
+### Tecnologias 
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-  - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- HTML;
+- CSS;
+- JavaScript.
+
+### FUncionalidades
+
+- `Criptografar`: Você pode inserir um texto em qualquer lingua em letras minusculas e sem acentos e o app ira criptografar baseado em um padrão estabelacido pelo desafio.
+- `Descriptografar`: VocÊ poderá saber a tradução de um texto criptografado usando a função descriptogafar;
+- `Copiar`: É possivel copiar o texto criptografado ou descriptografado clicando no otão copiar. 
 
 ## 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+Código disponível neste repositório.
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
-
-## 📚 Mais informações do curso
-
-**Faça um CTA (_call to action_) para o curso do projeto**
+LINK: https://carlospazini18.github.io/desafio-oracle-decodificador/
